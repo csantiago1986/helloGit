@@ -5,5 +5,8 @@ git status
 git add [./*] file_name
 git commit -m "Commit comment"
 git config --global user.name "Your Name"
-
 git diff commitId1 commitId2
+git remote add [origin] [https://github.com/csantiago1986/helloGit.git]
+git remote -v
+git push [origin] master
+.
