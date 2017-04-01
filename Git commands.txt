@@ -6,7 +6,10 @@ git add [./*] file_name
 git commit -m "Commit comment"
 git config --global user.name "Your Name"
 git diff commitId1 commitId2
+git checkout [commit id or branch name]
 git remote add [origin] [https://github.com/csantiago1986/helloGit.git]
 git remote -v
 git push [origin] master
-.
+git branch -v
+git branch [branchname]
+git branch -d [branchname]
