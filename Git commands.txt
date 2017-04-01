@@ -1,0 +1,9 @@
+git config --global user.email "carlos.santiago86@hotmail.com"
+
+git log
+git status
+git add [./*] file_name
+git commit -m "Commit comment"
+git config --global user.name "Your Name"
+
+git diff commitId1 commitId2
